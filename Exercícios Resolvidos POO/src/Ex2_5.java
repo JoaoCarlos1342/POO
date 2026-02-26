@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex25 {
+public class Ex2_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double v1, d1, v2, d2;
